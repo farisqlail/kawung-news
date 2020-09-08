@@ -1,0 +1,18 @@
+.img-media {
+    width: 120px;
+}
+
+blockquote {
+    border-left: 5px solid #ccc;
+    padding-left: 20px;
+    margin-left: 0;
+    font-style: italic;
+    overflow: hidden;
+}
+
+.show-text {
+    font-size: 18px; 
+    padding: 0px 10px; 
+    color: #000000;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
